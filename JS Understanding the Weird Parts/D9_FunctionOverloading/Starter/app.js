@@ -7,7 +7,7 @@ function greet(firstname, lastname, language) {
   }
 
   if (language === 'es') {
-    console.log('Hola ' + firstname + ' ' + lastname )
+    console.log('Hola ' + firstname + ' ' + lastname)
   }
 
 }
